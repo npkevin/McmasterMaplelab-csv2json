@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'csv2json'
+rootProject.name = 'maplelab_csv2json'
