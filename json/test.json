@@ -1,0 +1,99 @@
+{
+	"1950":{
+		"JEP":{
+			"flat":2.0,
+			"percussive":1.2,
+			"undefined":1.99,
+			"other":17.23,
+			"click":92.3,
+		},
+		"MP":{
+			"flat":2.0,
+			"percussive":1.2,
+			"undefined":0,
+			"other":0,
+			"click":0,
+		},
+		"APP":{
+			"flat":0,
+			"percussive":1.2,
+			"undefined":1.99,
+			"other":0,
+			"click":92.3,
+		},
+		"JASA":{
+			"flat":2.0,
+			"percussive":0,
+			"undefined":1.99,
+			"other":0,
+			"click":92.3,
+		}
+	},
+	"1952":{
+		"JEP":{
+			"flat":2.0,
+			"percussive":1.2,
+			"undefined":0,
+			"other":10,
+			"click":92.3,
+		},
+		"MP":{
+			"flat":2.0,
+			"percussive":1.2,
+			"undefined":0,
+			"other":0,
+			"click":0,
+		},
+		"APP":{
+			"flat":0,
+			"percussive":1.2,
+			"undefined":4.22,
+			"other":0,
+			"click":4.22,
+		},
+		"JASA":{
+			"flat":2.0,
+			"percussive":0,
+			"undefined":1.99,
+			"other":0,
+			"click":92.3,
+		}
+	}
+}
+
+
+
+
+
+{
+    "year":1950,
+    "JEP":{
+        "flat":2.0,
+        "percussive":1.2,
+        "undefined":0,
+        "other":10,
+        "click":92.3,
+		},
+    "MP":{
+        "flat":2.0,
+        "percussive":1.2,
+        "undefined":0,
+        "other":0,
+        "click":0,
+    },
+    "APP":{
+        "flat":0,
+        "percussive":1.2,
+        "undefined":4.22,
+        "other":0,
+        "click":4.22,
+    },
+    "JASA":{
+        "flat":2.0,
+        "percussive":0,
+        "undefined":1.99,
+        "other":0,
+        "click":92.3,
+    }
+    
+}
