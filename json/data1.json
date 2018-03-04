@@ -1,69 +1,2481 @@
 {
-"1950":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":2.99999,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1951":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1952":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":1.99999,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1953":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1954":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":4.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1955":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1956":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":1.66666,"percussive":0.0,"undefined":0.33333,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1957":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":4.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1958":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1959":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":1.00004,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1960":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":5.5,"percussive":0.0,"undefined":0.50001,"other":0.0,"click":1.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1961":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":1.0,"other":4.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1962":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1963":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.66666,"other":0.0,"click":0.33335},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1964":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":5.49989,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1965":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1966":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":2.999999998,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":1.50001,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1967":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":1.999999998,"other":0.0,"click":1.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1968":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":3.99998,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1969":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0},"JASA":{"flat":1.4996,"percussive":0.0,"undefined":1.5,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1970":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0},"JASA":{"flat":3.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1971":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.666666666,"percussive":0.0,"undefined":2.333333333,"other":0.0,"click":1.0},"JASA":{"flat":1.5,"percussive":0.0,"undefined":1.5,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1972":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":6.0,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":0.50001,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1973":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.333333334,"percussive":0.0,"undefined":0.666666666,"other":0.0,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.99998,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1974":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":1.000000001,"other":1.0,"click":0.0},"JASA":{"flat":2.00001,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1975":{"JEP":{"flat":1.75,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.25},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":3.99998,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1976":{"JEP":{"flat":6.0,"percussive":0.0,"undefined":1.000014,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":4.0,"other":0.0,"click":0.0},"JASA":{"flat":0.33334,"percussive":0.0,"undefined":1.33333,"other":0.33333,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1977":{"JEP":{"flat":0.0,"percussive":2.0,"undefined":4.999999,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":1.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":1.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1978":{"JEP":{"flat":3.000001,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.999999995,"percussive":1.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":1.0,"other":1.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1979":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":2.999999,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":3.0},"JASA":{"flat":1.20833,"percussive":0.0,"undefined":0.79166,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0}},
-"1980":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":1.333333336,"percussive":0.0,"undefined":1.666666666,"other":0.0,"click":0.0},"JASA":{"flat":4.33335,"percussive":0.0,"undefined":1.66665,"other":0.0,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":1.5,"other":0.0,"click":1.50001}},
-"1981":{"JEP":{"flat":2.999998,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.66668,"other":0.33333,"click":0.0},"HR":{"flat":4.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":1.0}},
-"1982":{"JEP":{"flat":3.000012,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":0.50001,"other":0.0,"click":0.0},"HR":{"flat":3.0,"percussive":0.0,"undefined":0.5,"other":0.0,"click":4.5}},
-"1983":{"JEP":{"flat":3.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":4.0,"other":0.0,"click":0.0},"JASA":{"flat":3.50002,"percussive":0.0,"undefined":1.49999,"other":0.0,"click":0.0},"HR":{"flat":2.0,"percussive":0.0,"undefined":1.0,"other":1.0,"click":0.0}},
-"1984":{"JEP":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":2.0,"percussive":0.999,"undefined":5.858,"other":0.0,"click":0.143},"APP":{"flat":9.000000006,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":0.0,"other":0.5,"click":3.0},"HR":{"flat":2.25002,"percussive":0.0,"undefined":1.5,"other":0.25,"click":0.0}},
-"1985":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":8.000005,"other":0.0,"click":0.0},"MP":{"flat":3.0,"percussive":0.0,"undefined":4.0,"other":1.0,"click":1.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":2.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":3.25,"percussive":0.0,"undefined":1.25,"other":0.5,"click":0.0}},
-"1986":{"JEP":{"flat":2.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"MP":{"flat":3.5,"percussive":2.5,"undefined":3.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":3.000000002,"other":0.0,"click":0.0},"JASA":{"flat":1.5,"percussive":0.0,"undefined":0.5,"other":0.0,"click":0.0},"HR":{"flat":2.5,"percussive":0.0,"undefined":0.5,"other":0.0,"click":1.0}},
-"1987":{"JEP":{"flat":0.999999,"percussive":0.0,"undefined":6.999997,"other":0.0,"click":0.0},"MP":{"flat":2.0,"percussive":0.0,"undefined":1.0,"other":2.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":12.0,"other":0.0,"click":0.0},"JASA":{"flat":3.54993,"percussive":0.0,"undefined":0.0,"other":0.45,"click":0.0},"HR":{"flat":5.00001,"percussive":0.0,"undefined":0.0,"other":0.0,"click":1.0}},
-"1988":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":3.0,"percussive":0.333,"undefined":8.333,"other":0.333,"click":0.0},"APP":{"flat":1.000000001,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":5.00008,"percussive":0.0,"undefined":1.33329,"other":1.66666,"click":0.0}},
-"1989":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":4.999999,"other":0.0,"click":0.0},"MP":{"flat":4.333,"percussive":2.332,"undefined":3.833,"other":1.5,"click":0.0},"APP":{"flat":2.666666665,"percussive":0.0,"undefined":1.333333335,"other":0.0,"click":0.0},"JASA":{"flat":1.5,"percussive":0.0,"undefined":0.0,"other":0.50001,"click":0.0},"HR":{"flat":3.33334,"percussive":0.0,"undefined":0.33333,"other":0.0,"click":0.33334}},
-"1990":{"JEP":{"flat":1.000001,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":1.5,"percussive":1.5,"undefined":1.0,"other":2.0,"click":0.0},"APP":{"flat":2.999999978,"percussive":0.0,"undefined":5.0,"other":0.0,"click":0.0},"JASA":{"flat":0.33333,"percussive":0.0,"undefined":0.33333,"other":0.33333,"click":0.0},"HR":{"flat":0.5,"percussive":0.0,"undefined":4.0,"other":0.0,"click":1.5}},
-"1991":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":12.666,"percussive":1.0,"undefined":7.0,"other":0.0,"click":0.333},"APP":{"flat":0.428571426,"percussive":0.0,"undefined":2.571428571,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":3.5,"other":0.0,"click":0.0},"HR":{"flat":2.5,"percussive":0.0,"undefined":1.5,"other":0.0,"click":1.0}},
-"1992":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":1.5,"undefined":2.0,"other":1.5,"click":0.0},"APP":{"flat":0.249999999,"percussive":0.0,"undefined":1.749999997,"other":0.0,"click":0.0},"JASA":{"flat":0.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":1.0}},
-"1993":{"JEP":{"flat":9.0,"percussive":0.0,"undefined":4.0,"other":3.0,"click":0.0},"MP":{"flat":6.5,"percussive":0.929,"undefined":3.143,"other":0.429,"click":0.0},"APP":{"flat":3.624999999,"percussive":0.0,"undefined":0.375,"other":0.0,"click":0.0},"JASA":{"flat":0.5,"percussive":0.0,"undefined":2.0,"other":0.5,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":1.99998,"other":0.0,"click":0.0}},
-"1994":{"JEP":{"flat":17.499995,"percussive":0.0,"undefined":11.499661,"other":0.0,"click":0.0},"MP":{"flat":1.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"APP":{"flat":0.5,"percussive":0.0,"undefined":4.5,"other":0.0,"click":0.0},"JASA":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":1.5,"percussive":0.0,"undefined":1.5,"other":0.0,"click":0.0}},
-"1995":{"JEP":{"flat":6.666668,"percussive":0.0,"undefined":1.333332,"other":0.0,"click":0.0},"MP":{"flat":3.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"APP":{"flat":0.666666672,"percussive":0.0,"undefined":3.333333332,"other":0.0,"click":0.0},"JASA":{"flat":1.66668,"percussive":0.0,"undefined":0.33333,"other":0.0,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":2.0}},
-"1996":{"JEP":{"flat":0.0,"percussive":4.0,"undefined":4.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0},"JASA":{"flat":1.83331,"percussive":0.91665,"undefined":0.0,"other":1.24998,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":2.5,"other":0.0,"click":1.5}},
-"1997":{"JEP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":2.0,"click":1.0},"MP":{"flat":4.0,"percussive":1.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0},"JASA":{"flat":4.01662,"percussive":0.0,"undefined":0.0,"other":0.98347,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":2.25,"other":0.0,"click":0.75}},
-"1998":{"JEP":{"flat":8.400008,"percussive":0.5,"undefined":0.0,"other":1.100004,"click":0.0},"MP":{"flat":2.0,"percussive":1.5,"undefined":4.0,"other":0.5,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":5.5,"other":1.5,"click":0.0},"JASA":{"flat":3.99998,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":1.5,"other":0.0,"click":0.5}},
-"1999":{"JEP":{"flat":7.65,"percussive":0.0,"undefined":7.349998,"other":0.0,"click":0.0},"MP":{"flat":1.0,"percussive":0.0,"undefined":3.0,"other":4.0,"click":0.0},"APP":{"flat":0.5,"percussive":0.0,"undefined":4.499999996,"other":0.0,"click":0.0},"JASA":{"flat":3.00001,"percussive":0.0,"undefined":0.5,"other":0.0,"click":4.5},"HR":{"flat":1.16667,"percussive":0.0,"undefined":0.33334,"other":0.49998,"click":1.0}},
-"2000":{"JEP":{"flat":15.499998,"percussive":4.0,"undefined":0.0,"other":0.0,"click":0.5},"MP":{"flat":0.0,"percussive":1.499,"undefined":3.333,"other":1.166,"click":0.0},"APP":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":5.0},"JASA":{"flat":4.33333,"percussive":0.0,"undefined":0.0,"other":1.66665,"click":0.0},"HR":{"flat":1.99998,"percussive":0.0,"undefined":4.99999,"other":0.0,"click":1.0}},
-"2001":{"JEP":{"flat":5.999999,"percussive":4.999998,"undefined":5.0,"other":1.0,"click":0.0},"MP":{"flat":0.0,"percussive":2.0,"undefined":1.0,"other":0.0,"click":0.0},"APP":{"flat":1.000000002,"percussive":0.0,"undefined":4.0,"other":0.0,"click":0.0},"JASA":{"flat":0.66666,"percussive":0.0,"undefined":0.99999,"other":0.33334,"click":0.0},"HR":{"flat":2.0,"percussive":0.0,"undefined":3.0,"other":0.0,"click":0.0}},
-"2002":{"JEP":{"flat":1.000001,"percussive":6.999999,"undefined":10.0,"other":0.0,"click":0.0},"MP":{"flat":5.0,"percussive":10.999,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":3.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":0.24999,"percussive":0.0,"undefined":0.5,"other":0.25,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":1.0}},
-"2003":{"JEP":{"flat":1.0,"percussive":0.25,"undefined":14.5,"other":0.25,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":4.0,"other":0.0,"click":0.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"JASA":{"flat":1.77084,"percussive":0.0,"undefined":0.66667,"other":1.56251,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":3.00002,"other":0.0,"click":1.0}},
-"2004":{"JEP":{"flat":8.499994,"percussive":3.75,"undefined":9.749992,"other":0.75,"click":0.25},"MP":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":0.0,"click":0.0},"APP":{"flat":1.5,"percussive":0.0,"undefined":1.0,"other":1.5,"click":0.0},"JASA":{"flat":1.5,"percussive":0.0,"undefined":0.0,"other":0.5,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":1.0,"other":0.0,"click":3.0}},
-"2005":{"JEP":{"flat":3.500001,"percussive":5.0,"undefined":2.5,"other":0.0,"click":0.0},"MP":{"flat":5.0,"percussive":11.998,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.999999997,"percussive":3.000000003,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":5.0,"click":0.0},"HR":{"flat":3.99998,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0}},
-"2006":{"JEP":{"flat":3.999997,"percussive":0.708332,"undefined":3.0,"other":0.791666,"click":1.5},"MP":{"flat":2.0,"percussive":3.5,"undefined":8.0,"other":1.0,"click":1.5},"APP":{"flat":1.333333344,"percussive":3.0,"undefined":2.666666676,"other":0.0,"click":0.0},"JASA":{"flat":4.0,"percussive":0.0,"undefined":0.0,"other":2.0,"click":0.0},"HR":{"flat":1.66668,"percussive":0.0,"undefined":0.0,"other":1.00001,"click":0.33333}},
-"2007":{"JEP":{"flat":1.0,"percussive":0.0,"undefined":5.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":3.999,"undefined":4.0,"other":0.0,"click":1.0},"APP":{"flat":2.266666666,"percussive":0.0,"undefined":4.733333336,"other":0.0,"click":0.0},"JASA":{"flat":1.74999,"percussive":0.0,"undefined":0.0,"other":0.25,"click":0.0},"HR":{"flat":3.83336,"percussive":0.0,"undefined":0.0,"other":1.5,"click":0.66666}},
-"2008":{"JEP":{"flat":5.999994,"percussive":3.722216,"undefined":2.5,"other":1.777768,"click":0.0},"MP":{"flat":0.8,"percussive":11.5,"undefined":1.375,"other":3.325,"click":0.0},"APP":{"flat":1.499999994,"percussive":1.0,"undefined":0.0,"other":1.5,"click":0.0},"JASA":{"flat":5.0,"percussive":0.0,"undefined":0.0,"other":1.9999,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":2.0,"other":1.0,"click":3.0}},
-"2009":{"JEP":{"flat":4.999999,"percussive":3.0,"undefined":4.0,"other":0.0,"click":0.0},"MP":{"flat":0.0,"percussive":2.999,"undefined":1.0,"other":0.999,"click":0.0},"APP":{"flat":0.0,"percussive":1.454857498,"undefined":2.139588101,"other":2.405554398,"click":0.0},"JASA":{"flat":2.49994,"percussive":0.0,"undefined":0.0,"other":0.0,"click":1.5},"HR":{"flat":4.66665,"percussive":0.0,"undefined":0.33334,"other":0.0,"click":0.0}},
-"2010":{"JEP":{"flat":3.000003,"percussive":4.500001,"undefined":0.0,"other":1.500006,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.000000007,"percussive":0.0,"undefined":0.0,"other":1.999999998,"click":0.0},"JASA":{"flat":1.5,"percussive":0.0,"undefined":0.0,"other":1.5,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":5.50002,"other":0.5,"click":0.0}},
-"2011":{"JEP":{"flat":5.833333,"percussive":2.288873,"undefined":1.166666,"other":1.711098,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":3.000000007,"percussive":0.0,"undefined":1.0,"other":0.0,"click":0.0},"JASA":{"flat":7.99997,"percussive":0.0,"undefined":0.0,"other":0.0,"click":5.0},"HR":{"flat":2.0,"percussive":0.0,"undefined":0.99999,"other":0.0,"click":0.0}},
-"2012":{"JEP":{"flat":3.0,"percussive":3.25,"undefined":3.0,"other":0.75,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":2.583333337,"percussive":0.0,"undefined":1.0,"other":1.416666668,"click":0.0},"JASA":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":1.0,"click":0.0},"HR":{"flat":1.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":3.00002}},
-"2013":{"JEP":{"flat":0.0,"percussive":5.5,"undefined":7.000018,"other":1.5,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.0,"percussive":0.0,"undefined":4.0,"other":1.0,"click":0.0},"JASA":{"flat":2.5,"percussive":0.0,"undefined":0.0,"other":0.0,"click":1.5},"HR":{"flat":0.66666,"percussive":0.0,"undefined":5.83333,"other":0.5,"click":0.0}},
-"2014":{"JEP":{"flat":9.833334,"percussive":0.0,"undefined":0.0,"other":3.166666,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":3.000000008,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"JASA":{"flat":3.4642,"percussive":0.0,"undefined":0.0,"other":0.5357,"click":0.0},"HR":{"flat":0.0,"percussive":0.0,"undefined":1.49998,"other":1.0,"click":0.5}},
-"2015":{"JEP":{"flat":2.0,"percussive":0.0,"undefined":0.0,"other":12.000006,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":1.0,"percussive":0.0,"undefined":1.0,"other":3.0,"click":0.0},"JASA":{"flat":2.66668,"percussive":0.0,"undefined":1.0,"other":0.33333,"click":0.0},"HR":{"flat":2.49998,"percussive":0.0,"undefined":1.0,"other":0.25,"click":0.25}},
-"2016":{"JEP":{"flat":1.0,"percussive":2.0,"undefined":6.333335,"other":3.666668,"click":0.0},"MP":{"flat":0.0,"percussive":0.0,"undefined":0.0,"other":0.0,"click":0.0},"APP":{"flat":0.333333333,"percussive":0.333333333,"undefined":3.0,"other":0.333333333,"click":0.0},"JASA":{"flat":4.5,"percussive":0.0,"undefined":0.5,"other":2.0,"click":0.0},"HR":{"flat":0.5,"percussive":0.0,"undefined":0.5,"other":0.0,"click":2.0}}
+  "1950": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.99999
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1951": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1952": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.99999
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1953": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1954": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1955": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1956": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.66666,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.33333
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1957": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1958": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1959": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.00004,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1960": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 1.0,
+      "flat": 5.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.50001
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1961": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 4.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1962": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1963": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.33335,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.66666
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1964": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 5.49989
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1965": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1966": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.999999998
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.50001
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1967": {
+    "APP": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.999999998
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1968": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.99998
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1969": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.4996,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1970": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1971": {
+    "APP": {
+      "click": 1.0,
+      "flat": 0.666666666,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.333333333
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1972": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 6.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.50001
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1973": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.333333334,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.666666666
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.99998
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1974": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 1.000000001
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 2.00001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1975": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.99998
+    },
+    "JEP": {
+      "click": 0.25,
+      "flat": 1.75,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1976": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.33334,
+      "other": 0.33333,
+      "percussive": 0.0,
+      "undefined": 1.33333
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 6.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.000014
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1977": {
+    "APP": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 2.0,
+      "undefined": 4.999999
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1978": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.999999995,
+      "other": 0.0,
+      "percussive": 1.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.000001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1979": {
+    "APP": {
+      "click": 3.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.20833,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.79166
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.999999
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1980": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.333333336,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.666666666
+    },
+    "HR": {
+      "click": 1.50001,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.33335,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.66665
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1981": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 4.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.33333,
+      "percussive": 0.0,
+      "undefined": 0.66668
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 2.999998,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1982": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "HR": {
+      "click": 4.5,
+      "flat": 3.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.50001
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.000012,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1983": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 3.50002,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.49999
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1984": {
+    "APP": {
+      "click": 0.0,
+      "flat": 9.000000006,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 2.25002,
+      "other": 0.25,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JASA": {
+      "click": 3.0,
+      "flat": 0.5,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.143,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.999,
+      "undefined": 5.858
+    }
+  },
+  "1985": {
+    "APP": {
+      "click": 2.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 3.25,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 1.25
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 8.000005
+    },
+    "MP": {
+      "click": 1.0,
+      "flat": 3.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    }
+  },
+  "1986": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.000000002
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 2.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 3.5,
+      "other": 0.0,
+      "percussive": 2.5,
+      "undefined": 3.0
+    }
+  },
+  "1987": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 12.0
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 5.00001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 3.54993,
+      "other": 0.45,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.999999,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 6.999997
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 2.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    }
+  },
+  "1988": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.000000001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 5.00008,
+      "other": 1.66666,
+      "percussive": 0.0,
+      "undefined": 1.33329
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.333,
+      "percussive": 0.333,
+      "undefined": 8.333
+    }
+  },
+  "1989": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.666666665,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.333333335
+    },
+    "HR": {
+      "click": 0.33334,
+      "flat": 3.33334,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.33333
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 0.50001,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.999999
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 4.333,
+      "other": 1.5,
+      "percussive": 2.332,
+      "undefined": 3.833
+    }
+  },
+  "1990": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.999999978,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 5.0
+    },
+    "HR": {
+      "click": 1.5,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.33333,
+      "other": 0.33333,
+      "percussive": 0.0,
+      "undefined": 0.33333
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 1.000001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 2.0,
+      "percussive": 1.5,
+      "undefined": 1.0
+    }
+  },
+  "1991": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.428571426,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.571428571
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 2.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.333,
+      "flat": 12.666,
+      "other": 0.0,
+      "percussive": 1.0,
+      "undefined": 7.0
+    }
+  },
+  "1992": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.249999999,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.749999997
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.5,
+      "percussive": 1.5,
+      "undefined": 2.0
+    }
+  },
+  "1993": {
+    "APP": {
+      "click": 0.0,
+      "flat": 3.624999999,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.375
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.99998
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 9.0,
+      "other": 3.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 6.5,
+      "other": 0.429,
+      "percussive": 0.929,
+      "undefined": 3.143
+    }
+  },
+  "1994": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.5
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 17.499995,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 11.499661
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    }
+  },
+  "1995": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.666666672,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.333333332
+    },
+    "HR": {
+      "click": 2.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.66668,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.33333
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 6.666668,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.333332
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    }
+  },
+  "1996": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 1.5,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.83331,
+      "other": 1.24998,
+      "percussive": 0.91665,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 4.0,
+      "undefined": 4.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "1997": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 0.75,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.25
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.01662,
+      "other": 0.98347,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 2.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 4.0,
+      "other": 0.0,
+      "percussive": 1.0,
+      "undefined": 0.0
+    }
+  },
+  "1998": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.5,
+      "percussive": 0.0,
+      "undefined": 5.5
+    },
+    "HR": {
+      "click": 0.5,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 3.99998,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 8.400008,
+      "other": 1.100004,
+      "percussive": 0.5,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.5,
+      "percussive": 1.5,
+      "undefined": 4.0
+    }
+  },
+  "1999": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.499999996
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 1.16667,
+      "other": 0.49998,
+      "percussive": 0.0,
+      "undefined": 0.33334
+    },
+    "JASA": {
+      "click": 4.5,
+      "flat": 3.00001,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 7.65,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 7.349998
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 4.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    }
+  },
+  "2000": {
+    "APP": {
+      "click": 5.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 1.99998,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.99999
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.33333,
+      "other": 1.66665,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.5,
+      "flat": 15.499998,
+      "other": 0.0,
+      "percussive": 4.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.166,
+      "percussive": 1.499,
+      "undefined": 3.333
+    }
+  },
+  "2001": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.000000002,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.66666,
+      "other": 0.33334,
+      "percussive": 0.0,
+      "undefined": 0.99999
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 5.999999,
+      "other": 1.0,
+      "percussive": 4.999998,
+      "undefined": 5.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 2.0,
+      "undefined": 1.0
+    }
+  },
+  "2002": {
+    "APP": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 0.24999,
+      "other": 0.25,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 1.000001,
+      "other": 0.0,
+      "percussive": 6.999999,
+      "undefined": 10.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 5.0,
+      "other": 0.0,
+      "percussive": 10.999,
+      "undefined": 0.0
+    }
+  },
+  "2003": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "HR": {
+      "click": 1.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 3.00002
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.77084,
+      "other": 1.56251,
+      "percussive": 0.0,
+      "undefined": 0.66667
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.25,
+      "percussive": 0.25,
+      "undefined": 14.5
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    }
+  },
+  "2004": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 1.5,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 3.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.25,
+      "flat": 8.499994,
+      "other": 0.75,
+      "percussive": 3.75,
+      "undefined": 9.749992
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    }
+  },
+  "2005": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.999999997,
+      "other": 0.0,
+      "percussive": 3.000000003,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 3.99998,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 5.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.500001,
+      "other": 0.0,
+      "percussive": 5.0,
+      "undefined": 2.5
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 5.0,
+      "other": 0.0,
+      "percussive": 11.998,
+      "undefined": 0.0
+    }
+  },
+  "2006": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.333333344,
+      "other": 0.0,
+      "percussive": 3.0,
+      "undefined": 2.666666676
+    },
+    "HR": {
+      "click": 0.33333,
+      "flat": 1.66668,
+      "other": 1.00001,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.0,
+      "other": 2.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 1.5,
+      "flat": 3.999997,
+      "other": 0.791666,
+      "percussive": 0.708332,
+      "undefined": 3.0
+    },
+    "MP": {
+      "click": 1.5,
+      "flat": 2.0,
+      "other": 1.0,
+      "percussive": 3.5,
+      "undefined": 8.0
+    }
+  },
+  "2007": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.266666666,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 4.733333336
+    },
+    "HR": {
+      "click": 0.66666,
+      "flat": 3.83336,
+      "other": 1.5,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.74999,
+      "other": 0.25,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 5.0
+    },
+    "MP": {
+      "click": 1.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 3.999,
+      "undefined": 4.0
+    }
+  },
+  "2008": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.499999994,
+      "other": 1.5,
+      "percussive": 1.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 3.0,
+      "flat": 0.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 2.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 5.0,
+      "other": 1.9999,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 5.999994,
+      "other": 1.777768,
+      "percussive": 3.722216,
+      "undefined": 2.5
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.8,
+      "other": 3.325,
+      "percussive": 11.5,
+      "undefined": 1.375
+    }
+  },
+  "2009": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 2.405554398,
+      "percussive": 1.454857498,
+      "undefined": 2.139588101
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 4.66665,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.33334
+    },
+    "JASA": {
+      "click": 1.5,
+      "flat": 2.49994,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 4.999999,
+      "other": 0.0,
+      "percussive": 3.0,
+      "undefined": 4.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.999,
+      "percussive": 2.999,
+      "undefined": 1.0
+    }
+  },
+  "2010": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.000000007,
+      "other": 1.999999998,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 5.50002
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.5,
+      "other": 1.5,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.000003,
+      "other": 1.500006,
+      "percussive": 4.500001,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2011": {
+    "APP": {
+      "click": 0.0,
+      "flat": 3.000000007,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.99999
+    },
+    "JASA": {
+      "click": 5.0,
+      "flat": 7.99997,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 5.833333,
+      "other": 1.711098,
+      "percussive": 2.288873,
+      "undefined": 1.166666
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2012": {
+    "APP": {
+      "click": 0.0,
+      "flat": 2.583333337,
+      "other": 1.416666668,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 3.00002,
+      "flat": 1.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 3.0,
+      "other": 0.75,
+      "percussive": 3.25,
+      "undefined": 3.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2013": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 4.0
+    },
+    "HR": {
+      "click": 0.0,
+      "flat": 0.66666,
+      "other": 0.5,
+      "percussive": 0.0,
+      "undefined": 5.83333
+    },
+    "JASA": {
+      "click": 1.5,
+      "flat": 2.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 1.5,
+      "percussive": 5.5,
+      "undefined": 7.000018
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2014": {
+    "APP": {
+      "click": 0.0,
+      "flat": 3.000000008,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "HR": {
+      "click": 0.5,
+      "flat": 0.0,
+      "other": 1.0,
+      "percussive": 0.0,
+      "undefined": 1.49998
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 3.4642,
+      "other": 0.5357,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 9.833334,
+      "other": 3.166666,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2015": {
+    "APP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 3.0,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "HR": {
+      "click": 0.25,
+      "flat": 2.49998,
+      "other": 0.25,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 2.66668,
+      "other": 0.33333,
+      "percussive": 0.0,
+      "undefined": 1.0
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 2.0,
+      "other": 12.000006,
+      "percussive": 0.0,
+      "undefined": 0.0
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  },
+  "2016": {
+    "APP": {
+      "click": 0.0,
+      "flat": 0.333333333,
+      "other": 0.333333333,
+      "percussive": 0.333333333,
+      "undefined": 3.0
+    },
+    "HR": {
+      "click": 2.0,
+      "flat": 0.5,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JASA": {
+      "click": 0.0,
+      "flat": 4.5,
+      "other": 2.0,
+      "percussive": 0.0,
+      "undefined": 0.5
+    },
+    "JEP": {
+      "click": 0.0,
+      "flat": 1.0,
+      "other": 3.666668,
+      "percussive": 2.0,
+      "undefined": 6.333335
+    },
+    "MP": {
+      "click": 0.0,
+      "flat": 0.0,
+      "other": 0.0,
+      "percussive": 0.0,
+      "undefined": 0.0
+    }
+  }
 }
