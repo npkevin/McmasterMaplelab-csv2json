@@ -2,7 +2,7 @@ import com.google.gson.*;
 import java.io.*;
 
 public class DataYear {
-	
+
 	public static JournalSet jSet = new JournalSet();
 
 	public static int[] getYearRange(String fileName, String filePath) {
@@ -20,9 +20,13 @@ public class DataYear {
 
 				String[] lineData = line.split(",");
 				int currentYear = Integer.parseInt(lineData[1]);
+
+				// System.out.println(start + "/" + end + " <= " + currentYear);
+
 				if (currentYear > end) {
 					end = currentYear;
-				} else if (currentYear < start) {
+				}
+				if (currentYear < start) {
 					start = currentYear;
 				}
 			}
@@ -32,11 +36,18 @@ public class DataYear {
 		} catch (IOException ex) {
 			System.out.println("Error reading file " + "'" + fileName + "'");
 		}
-
+		ans[0] = start;
+		ans[1] = end;
+		System.out.println(start + " - " + end);
 		return ans;
 	}
 
-	public static void insertDataIntoJSET(String journal, String type, String data) {
+	public static void insertDataIntoJSET(String journal, String type, String data, boolean createNewSet) {
+
+		if (createNewSet) {
+			jSet = new JournalSet();
+		}
+
 		if (journal.equals("jep")) {
 
 			if (type.equals("flat")) {
@@ -118,13 +129,11 @@ public class DataYear {
 		int endYear = s0e1[1];
 
 		// Arbitrary large and small (negative) numbers
-
 		try {
 
 			FileReader fileReader = new FileReader(filePath + fileName + ".csv");
 			BufferedReader bufferedReader = new BufferedReader(fileReader);
 			PrintWriter writer = new PrintWriter(filePath + fileName + ".json", "UTF-8");
-			String json = gson.toJson(jSet).toString();
 			line = null;
 
 			writer.println("{");
@@ -136,16 +145,22 @@ public class DataYear {
 				String year = lineData[1].toLowerCase();
 				String journal = lineData[2].toLowerCase();
 				String data = lineData[3].toLowerCase();
-				
-				/*
-				 * while (startYear < Integer.parseInt(year)) { writer.println(json); jSet = new
-				 * JournalSet(); }
-				 */
-				jSet = new JournalSet();
-				insertDataIntoJSET(journal, type, data);
 
-				json = gson.toJson(jSet).toString();
-				writer.println(json);
+				// System.out.println("\"" + startYear + "\":");
+				System.out.println("Comparing: " + startYear + " to " + year + " & Holding: " + year);
+
+				while (startYear < Integer.parseInt(year)) {
+					startYear++;
+					System.out.println("new JournalSet for: " + startYear);
+				}
+				if (startYear == Integer.parseInt(year)) {
+					System.out.println("OBJECT <<< DATA");
+				}
+
+				System.out.println("\n");
+
+				// insertDataIntoJSET(journal, type, data, true);
+				// writer.println(gson.toJson(jSet));
 
 			}
 			writer.println("}");
