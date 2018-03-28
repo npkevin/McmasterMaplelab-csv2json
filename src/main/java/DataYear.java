@@ -41,6 +41,7 @@ public class DataYear {
 		System.out.println(start + " - " + end);
 		return ans;
 	}
+	
 
 	public static void insertDataIntoJSET(String journal, String type, String data) {
 
@@ -54,8 +55,12 @@ public class DataYear {
 				jSet.JEP.undefined = Double.parseDouble(data);
 			} else if (type.equals("click/click train")) {
 				jSet.JEP.click = Double.parseDouble(data);
-			} else if (type.equals("other")) {
-				jSet.JEP.other = Double.parseDouble(data);
+			} else if (type.equals("non-referential")) {
+				jSet.JEP.nonref = Double.parseDouble(data);
+			} else if (type.equals("soundscapes")) {
+				jSet.JEP.soundscapes = Double.parseDouble(data);
+			} else if (type.equals("musical instrument")) {
+				jSet.JEP.musical = Double.parseDouble(data);
 			}
 
 		} else if (journal.equals("jasa")) {
@@ -67,8 +72,12 @@ public class DataYear {
 				jSet.JASA.undefined = Double.parseDouble(data);
 			} else if (type.equals("click/click train")) {
 				jSet.JASA.click = Double.parseDouble(data);
-			} else if (type.equals("other")) {
-				jSet.JASA.other = Double.parseDouble(data);
+			} else if (type.equals("non-referential")) {
+				jSet.JASA.nonref = Double.parseDouble(data);
+			} else if (type.equals("soundscapes")) {
+				jSet.JASA.soundscapes = Double.parseDouble(data);
+			} else if (type.equals("musical instrument")) {
+				jSet.JASA.musical = Double.parseDouble(data);
 			}
 
 		} else if (journal.equals("app")) {
@@ -80,8 +89,12 @@ public class DataYear {
 				jSet.APP.undefined = Double.parseDouble(data);
 			} else if (type.equals("click/click train")) {
 				jSet.APP.click = Double.parseDouble(data);
-			} else if (type.equals("other")) {
-				jSet.APP.other = Double.parseDouble(data);
+			} else if (type.equals("non-referential")) {
+				jSet.APP.nonref = Double.parseDouble(data);
+			} else if (type.equals("soundscapes")) {
+				jSet.APP.soundscapes = Double.parseDouble(data);
+			} else if (type.equals("musical instrument")) {
+				jSet.APP.musical = Double.parseDouble(data);
 			}
 
 		} else if (journal.equals("mp")) {
@@ -93,8 +106,12 @@ public class DataYear {
 				jSet.MP.undefined = Double.parseDouble(data);
 			} else if (type.equals("click/click train")) {
 				jSet.MP.click = Double.parseDouble(data);
-			} else if (type.equals("other")) {
-				jSet.MP.other = Double.parseDouble(data);
+			} else if (type.equals("non-referential")) {
+				jSet.MP.nonref = Double.parseDouble(data);
+			} else if (type.equals("soundscapes")) {
+				jSet.MP.soundscapes = Double.parseDouble(data);
+			} else if (type.equals("musical instrument")) {
+				jSet.MP.musical = Double.parseDouble(data);
 			}
 
 		} else if (journal.equals("hr")) {
@@ -106,8 +123,12 @@ public class DataYear {
 				jSet.HR.undefined = Double.parseDouble(data);
 			} else if (type.equals("click/click train")) {
 				jSet.HR.click = Double.parseDouble(data);
-			} else if (type.equals("other")) {
-				jSet.HR.other = Double.parseDouble(data);
+			} else if (type.equals("non-referential")) {
+				jSet.HR.nonref = Double.parseDouble(data);
+			} else if (type.equals("soundscapes")) {
+				jSet.HR.soundscapes = Double.parseDouble(data);
+			} else if (type.equals("musical instrument")) {
+				jSet.HR.musical = Double.parseDouble(data);
 			}
 
 		}
@@ -116,7 +137,7 @@ public class DataYear {
 	public static void main(String[] args) {
 		Gson gson = new Gson();
 
-		String fileName = "data1";
+		String fileName = "datav2";
 		String filePath = "json/";
 		String line = null;
 
